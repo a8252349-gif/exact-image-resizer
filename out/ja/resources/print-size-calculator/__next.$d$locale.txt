@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[74227,["/_next/static/chunks/1lv10m8ml6pzs.js"],"DocumentLanguage"]
+3:I[22016,["/_next/static/chunks/1lv10m8ml6pzs.js","/_next/static/chunks/17n2oop7z1d9m.js"],""]
+4:I[80157,["/_next/static/chunks/1lv10m8ml6pzs.js"],"LanguageSwitcher"]
+5:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+6:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+7:I[13642,["/_next/static/chunks/1lv10m8ml6pzs.js"],"Footer"]
+8:I[41780,["/_next/static/chunks/1lv10m8ml6pzs.js"],"CookieSettings"]
+9:I[57205,["/_next/static/chunks/1lv10m8ml6pzs.js"],"AdSenseScript"]
+:HL["/_next/static/chunks/23pzkwxa3unzm.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/23pzkwxa3unzm.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1lv10m8ml6pzs.js","async":true}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"children":[["$","$L2",null,{"locale":"ja"}],["$","a",null,{"className":"skipLink","href":"#main-content","children":"本文へ移動"}],["$","header",null,{"className":"siteHeader","children":["$","div",null,{"className":"headerInner","children":[["$","$L3",null,{"className":"logo","href":"/ja/","aria-label":"画像リサイズ ホーム","children":[["$","span",null,{"aria-hidden":"true","children":"↔"}],"画像リサイズ"]}],["$","nav",null,{"className":"mainNav","aria-label":"メインナビゲーション","children":[["$","$L3",null,{"href":"/ja/resizer/","children":"画像リサイズ"}],["$","$L3",null,{"href":"/ja/guides/","children":"ガイド"}],["$","$L3",null,{"href":"/ja/resources/","children":"計算ツール"}],["$","$L3",null,{"href":"/ja/how-it-works/","children":"仕組み"}],["$","$L3",null,{"href":"/ja/faq/","children":"よくある質問"}]]}],["$","$L4",null,{"locale":"ja"}]]}]}],["$","main",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]}],["$","$L7",null,{"locale":"ja"}],["$","$L8",null,{"locale":"ja"}],["$","$L9",null,{}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lfsI3_6MBGBwTIkrQlFv-"}

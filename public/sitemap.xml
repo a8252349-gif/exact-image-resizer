@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/en/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/resizer/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resizer/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/resources/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/how-it-works/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/faq/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/faq/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/about/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/about/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/contact/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/terms/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/cookies/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/cookies/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/accessibility/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/accessibility/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/editorial-policy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/editorial-policy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/compression-methodology/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/compression-methodology/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/image-resizer-online/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/image-resizer-online/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/exact-dimensions-without-distortion/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/target-file-size-kb/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/target-file-size-kb/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/batch-resize-images/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/batch-resize-images/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/without-losing-quality/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/without-losing-quality/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/jpeg-png-webp/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/jpeg-png-webp/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/website-core-web-vitals/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/website-core-web-vitals/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/email-attachments/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/email-attachments/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/product-photos-same-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/product-photos-same-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/profile-pictures-headshots/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/social-media-workflow/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/social-media-workflow/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/dpi-ppi-print-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/high-resolution-phone-photos/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/transparent-png/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/transparent-png/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/guides/browser-privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/browser-privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/resources/dimensions-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/dimensions-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/resources/aspect-ratio-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/resources/file-size-estimator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/file-size-estimator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/resources/print-size-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/print-size-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/en/resources/social-media-sizes/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/social-media-sizes/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/resizer/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resizer/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/resources/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/how-it-works/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/faq/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/faq/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/about/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/about/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/contact/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/terms/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/cookies/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/cookies/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/accessibility/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/accessibility/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/editorial-policy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/editorial-policy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/compression-methodology/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/compression-methodology/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/image-resizer-online/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/image-resizer-online/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/exact-dimensions-without-distortion/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/target-file-size-kb/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/target-file-size-kb/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/batch-resize-images/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/batch-resize-images/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/without-losing-quality/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/without-losing-quality/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/jpeg-png-webp/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/jpeg-png-webp/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/website-core-web-vitals/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/website-core-web-vitals/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/email-attachments/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/email-attachments/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/product-photos-same-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/product-photos-same-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/profile-pictures-headshots/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/social-media-workflow/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/social-media-workflow/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/dpi-ppi-print-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/high-resolution-phone-photos/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/transparent-png/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/transparent-png/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/guides/browser-privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/browser-privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/resources/dimensions-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/dimensions-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/resources/aspect-ratio-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/resources/file-size-estimator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/file-size-estimator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/resources/print-size-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/print-size-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ko/resources/social-media-sizes/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/social-media-sizes/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/resizer/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resizer/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/resources/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/how-it-works/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/faq/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/faq/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/about/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/about/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/contact/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/terms/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/cookies/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/cookies/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/accessibility/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/accessibility/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/editorial-policy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/editorial-policy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/compression-methodology/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/compression-methodology/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/image-resizer-online/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/image-resizer-online/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/exact-dimensions-without-distortion/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/target-file-size-kb/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/target-file-size-kb/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/batch-resize-images/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/batch-resize-images/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/without-losing-quality/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/without-losing-quality/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/jpeg-png-webp/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/jpeg-png-webp/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/website-core-web-vitals/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/website-core-web-vitals/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/email-attachments/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/email-attachments/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/product-photos-same-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/product-photos-same-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/profile-pictures-headshots/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/social-media-workflow/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/social-media-workflow/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/dpi-ppi-print-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/high-resolution-phone-photos/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/transparent-png/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/transparent-png/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/guides/browser-privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/browser-privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/resources/dimensions-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/dimensions-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/resources/aspect-ratio-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/resources/file-size-estimator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/file-size-estimator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/resources/print-size-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/print-size-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/ja/resources/social-media-sizes/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/social-media-sizes/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/resizer/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resizer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resizer/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/resources/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/how-it-works/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/faq/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/faq/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/about/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/about/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/contact/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/terms/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/cookies/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/cookies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/cookies/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/accessibility/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/accessibility/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/accessibility/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/editorial-policy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/editorial-policy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/editorial-policy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/compression-methodology/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/compression-methodology/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/compression-methodology/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/image-resizer-online/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/image-resizer-online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/image-resizer-online/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/exact-dimensions-without-distortion/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/exact-dimensions-without-distortion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/exact-dimensions-without-distortion/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/target-file-size-kb/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/target-file-size-kb/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/target-file-size-kb/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/batch-resize-images/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/batch-resize-images/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/batch-resize-images/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/without-losing-quality/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/without-losing-quality/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/without-losing-quality/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/jpeg-png-webp/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/jpeg-png-webp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/jpeg-png-webp/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/website-core-web-vitals/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/website-core-web-vitals/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/website-core-web-vitals/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/email-attachments/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/email-attachments/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/email-attachments/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/product-photos-same-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/product-photos-same-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/product-photos-same-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/profile-pictures-headshots/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/profile-pictures-headshots/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/profile-pictures-headshots/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/social-media-workflow/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/social-media-workflow/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/social-media-workflow/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/dpi-ppi-print-size/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/dpi-ppi-print-size/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/dpi-ppi-print-size/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/high-resolution-phone-photos/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/high-resolution-phone-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/high-resolution-phone-photos/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/transparent-png/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/transparent-png/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/transparent-png/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/guides/browser-privacy/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/guides/browser-privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/guides/browser-privacy/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/resources/dimensions-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/dimensions-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/dimensions-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/resources/aspect-ratio-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/aspect-ratio-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/aspect-ratio-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/resources/file-size-estimator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/file-size-estimator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/file-size-estimator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/resources/print-size-calculator/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/print-size-calculator/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/print-size-calculator/"/>
+  </url>
+  <url>
+    <loc>https://example.com/es/resources/social-media-sizes/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/en/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://example.com/ko/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://example.com/ja/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/resources/social-media-sizes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/en/resources/social-media-sizes/"/>
+  </url>
+</urlset>

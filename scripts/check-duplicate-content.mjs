@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const db=JSON.parse(fs.readFileSync('src/content/guides.generated.json','utf8'));
+function text(g){return [...g.intro,...g.sections.flatMap(s=>[s.heading,...s.paragraphs,...(s.list||[]),...(s.table?.rows.flat()||[])]),...g.checklist,...g.faqs.flatMap(f=>[f.question,f.answer])].join(' ')}
+function words(s,locale){const text=s.toLowerCase();if(locale==='ja'){const seg=new Intl.Segmenter('ja',{granularity:'word'});return [...seg.segment(text)].filter(x=>x.isWordLike).map(x=>x.segment)}return (text.match(/[\p{L}\p{N}]+/gu)||[])}
+function longestShared(a,b){const pos=new Map();for(let i=0;i<=a.length-5;i++){const key=a.slice(i,i+5).join('\u0001');const list=pos.get(key)||[];list.push(i);pos.set(key,list)}let best=0;for(let j=0;j<=b.length-5;j++){const key=b.slice(j,j+5).join('\u0001');for(const i of pos.get(key)||[]){let n=5;while(i+n<a.length&&j+n<b.length&&a[i+n]===b[j+n])n++;if(n>best)best=n}}return best}
+let globalMax=0,maxPair='';const rows=[];
+for(const [locale,guides] of Object.entries(db)){const list=Object.values(guides).map(g=>({slug:g.slug,words:words(text(g),locale)}));for(let i=0;i<list.length;i++)for(let j=i+1;j<list.length;j++){const run=longestShared(list[i].words,list[j].words);const pct=run/Math.min(list[i].words.length,list[j].words.length)*100;if(pct>globalMax){globalMax=pct;maxPair=`${locale}: ${list[i].slug} ↔ ${list[j].slug} (${run} consecutive words)`}}rows.push({locale,maxPercent:Math.max(...list.flatMap((a,i)=>list.slice(i+1).map(b=>longestShared(a.words,b.words)/Math.min(a.words.length,b.words.length)*100)))})}
+if(globalMax>15){console.error(`Duplicate-content check failed: ${globalMax.toFixed(2)}% ${maxPair}`);process.exit(1)}
+fs.writeFileSync('src/content/duplicate-report.json',JSON.stringify({metric:'Longest identical contiguous passage divided by the shorter guide word count',thresholdPercent:15,maxPercent:Number(globalMax.toFixed(3)),maxPair,locales:rows},null,2));
+console.log(`Duplicate-content check passed. Maximum contiguous-passage coverage: ${globalMax.toFixed(2)}% (${maxPair}).`);

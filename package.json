@@ -1,0 +1,53 @@
+{
+  "name": "exact-image-resizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A multilingual, privacy-first exact image resizer and target file-size compressor.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run generate:content && next build",
+    "start": "npx serve out",
+    "lint": "eslint .",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "generate:content": "node scripts/generate-content.mjs",
+    "check:content": "node scripts/check-content-quality.mjs",
+    "check:links": "node scripts/check-internal-links.mjs",
+    "check:hreflang": "node scripts/check-hreflang.mjs",
+    "check:sitemap": "node scripts/check-sitemap.mjs",
+    "check:length": "node scripts/check-guide-length.mjs",
+    "check:duplicates": "node scripts/check-duplicate-content.mjs",
+    "audit": "npm audit && npm run lint && npm run typecheck && npm run test && npm run test:worker && npm run build && npm run test:e2e && npm run check:content && npm run check:links && npm run check:hreflang && npm run check:sitemap && npm run check:length && npm run check:duplicates && npm run check:language",
+    "test:worker": "node --check public/image-worker.js",
+    "check:language": "node scripts/check-language-purity.mjs",
+    "generate:seo-map": "node scripts/generate-seo-map.mjs"
+  },
+  "dependencies": {
+    "heic2any": "0.0.4",
+    "jszip": "3.10.1",
+    "next": "16.2.9",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "9.35.0",
+    "eslint-config-next": "16.2.9",
+    "jsdom": "^29.1.1",
+    "serve": "^14.2.6",
+    "typescript": "6.0.3",
+    "vitest": "^4.1.9"
+  },
+  "overrides": {
+    "postcss": "8.5.16"
+  },
+  "engines": {
+    "node": ">=20.9.0 <23",
+    "npm": ">=10"
+  },
+  "packageManager": "npm@10.9.2"
+}

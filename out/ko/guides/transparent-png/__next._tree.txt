@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/23pzkwxa3unzm.css","style"]
+:HL["/guide-images/ko/transparent-png.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ko","siblings":null},"prefetchHints":16,"slots":{"children":{"name":"guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"transparent-png","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"lfsI3_6MBGBwTIkrQlFv-"}

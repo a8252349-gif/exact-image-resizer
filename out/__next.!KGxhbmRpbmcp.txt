@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[22016,["/_next/static/chunks/0nui2ni_b5k-b.js","/_next/static/chunks/3rdqn8rx95pw7.js"],""]
+5:I[57205,["/_next/static/chunks/0nui2ni_b5k-b.js"],"AdSenseScript"]
+:HL["/_next/static/chunks/23pzkwxa3unzm.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/23pzkwxa3unzm.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0nui2ni_b5k-b.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"notFound","children":["$","div",null,{"children":[["$","span",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"Page not found"}],["$","p",null,{"children":"The requested page does not exist or may have moved."}],["$","$L4",null,{"className":"button","href":"/en/","children":"Go to Image Resizer"}]]}]}],[]]}],["$","$L5",null,{}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lfsI3_6MBGBwTIkrQlFv-"}

@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: exact-image-resizer
+    runtime: static
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./out
+    envVars:
+      - key: NEXT_PUBLIC_SITE_URL
+        value: https://example.com
+      - key: NEXT_PUBLIC_CONTACT_EMAIL
+        sync: false
+      - key: NEXT_PUBLIC_ADSENSE_CLIENT
+        value: ca-pub-9328837907414732
+      - key: NEXT_PUBLIC_ADSENSE_SCRIPT_ENABLED
+        value: "false"
+      - key: NEXT_PUBLIC_ADSENSE_MANUAL_ADS_ENABLED
+        value: "false"
+      - key: NEXT_PUBLIC_SHOW_AD_PLACEHOLDERS
+        value: "false"
+      - key: NEXT_PUBLIC_GOOGLE_CMP_ENABLED
+        value: "false"
+      - key: NEXT_PUBLIC_ADSENSE_HOME_SLOT
+        sync: false
+      - key: NEXT_PUBLIC_ADSENSE_CONTENT_SLOT
+        sync: false
+      - key: NEXT_PUBLIC_ADSENSE_GUIDE_SLOT
+        sync: false
+      - key: NEXT_PUBLIC_ADSENSE_TOOL_BOTTOM_SLOT
+        sync: false
+      - key: NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+        sync: false
+      - key: NEXT_PUBLIC_GA_ID
+        sync: false

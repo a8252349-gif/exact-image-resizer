@@ -1,0 +1,10 @@
+{
+  "name": "Image Resizer",
+  "short_name": "Image Resizer",
+  "description": "Resize images to exact dimensions and target file sizes directly in your browser.",
+  "start_url": "/en/",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#2457ff",
+  "icons": []
+}

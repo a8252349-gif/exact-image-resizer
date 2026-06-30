@@ -1,0 +1,362 @@
+[
+  {
+    "locale": "en",
+    "slug": "image-resizer-online",
+    "wordCount": 1660,
+    "characterCountNoSpaces": 9089
+  },
+  {
+    "locale": "en",
+    "slug": "exact-dimensions-without-distortion",
+    "wordCount": 1690,
+    "characterCountNoSpaces": 9256
+  },
+  {
+    "locale": "en",
+    "slug": "target-file-size-kb",
+    "wordCount": 1731,
+    "characterCountNoSpaces": 9604
+  },
+  {
+    "locale": "en",
+    "slug": "batch-resize-images",
+    "wordCount": 1689,
+    "characterCountNoSpaces": 9383
+  },
+  {
+    "locale": "en",
+    "slug": "without-losing-quality",
+    "wordCount": 1764,
+    "characterCountNoSpaces": 9890
+  },
+  {
+    "locale": "en",
+    "slug": "jpeg-png-webp",
+    "wordCount": 1747,
+    "characterCountNoSpaces": 9536
+  },
+  {
+    "locale": "en",
+    "slug": "website-core-web-vitals",
+    "wordCount": 1727,
+    "characterCountNoSpaces": 9661
+  },
+  {
+    "locale": "en",
+    "slug": "email-attachments",
+    "wordCount": 1724,
+    "characterCountNoSpaces": 9675
+  },
+  {
+    "locale": "en",
+    "slug": "product-photos-same-size",
+    "wordCount": 1687,
+    "characterCountNoSpaces": 9723
+  },
+  {
+    "locale": "en",
+    "slug": "profile-pictures-headshots",
+    "wordCount": 1706,
+    "characterCountNoSpaces": 9652
+  },
+  {
+    "locale": "en",
+    "slug": "social-media-workflow",
+    "wordCount": 1707,
+    "characterCountNoSpaces": 9534
+  },
+  {
+    "locale": "en",
+    "slug": "dpi-ppi-print-size",
+    "wordCount": 1771,
+    "characterCountNoSpaces": 9388
+  },
+  {
+    "locale": "en",
+    "slug": "high-resolution-phone-photos",
+    "wordCount": 1694,
+    "characterCountNoSpaces": 9390
+  },
+  {
+    "locale": "en",
+    "slug": "transparent-png",
+    "wordCount": 1719,
+    "characterCountNoSpaces": 9519
+  },
+  {
+    "locale": "en",
+    "slug": "browser-privacy",
+    "wordCount": 1759,
+    "characterCountNoSpaces": 9683
+  },
+  {
+    "locale": "ko",
+    "slug": "image-resizer-online",
+    "wordCount": 1430,
+    "characterCountNoSpaces": 4515
+  },
+  {
+    "locale": "ko",
+    "slug": "exact-dimensions-without-distortion",
+    "wordCount": 1432,
+    "characterCountNoSpaces": 4701
+  },
+  {
+    "locale": "ko",
+    "slug": "target-file-size-kb",
+    "wordCount": 1419,
+    "characterCountNoSpaces": 4511
+  },
+  {
+    "locale": "ko",
+    "slug": "batch-resize-images",
+    "wordCount": 1492,
+    "characterCountNoSpaces": 4480
+  },
+  {
+    "locale": "ko",
+    "slug": "without-losing-quality",
+    "wordCount": 1466,
+    "characterCountNoSpaces": 4566
+  },
+  {
+    "locale": "ko",
+    "slug": "jpeg-png-webp",
+    "wordCount": 1483,
+    "characterCountNoSpaces": 4580
+  },
+  {
+    "locale": "ko",
+    "slug": "website-core-web-vitals",
+    "wordCount": 1436,
+    "characterCountNoSpaces": 4487
+  },
+  {
+    "locale": "ko",
+    "slug": "email-attachments",
+    "wordCount": 1488,
+    "characterCountNoSpaces": 4479
+  },
+  {
+    "locale": "ko",
+    "slug": "product-photos-same-size",
+    "wordCount": 1443,
+    "characterCountNoSpaces": 4404
+  },
+  {
+    "locale": "ko",
+    "slug": "profile-pictures-headshots",
+    "wordCount": 1470,
+    "characterCountNoSpaces": 4500
+  },
+  {
+    "locale": "ko",
+    "slug": "social-media-workflow",
+    "wordCount": 1380,
+    "characterCountNoSpaces": 4529
+  },
+  {
+    "locale": "ko",
+    "slug": "dpi-ppi-print-size",
+    "wordCount": 1434,
+    "characterCountNoSpaces": 4623
+  },
+  {
+    "locale": "ko",
+    "slug": "high-resolution-phone-photos",
+    "wordCount": 1467,
+    "characterCountNoSpaces": 4528
+  },
+  {
+    "locale": "ko",
+    "slug": "transparent-png",
+    "wordCount": 1427,
+    "characterCountNoSpaces": 4444
+  },
+  {
+    "locale": "ko",
+    "slug": "browser-privacy",
+    "wordCount": 1494,
+    "characterCountNoSpaces": 4591
+  },
+  {
+    "locale": "ja",
+    "slug": "image-resizer-online",
+    "wordCount": 78,
+    "characterCountNoSpaces": 4065
+  },
+  {
+    "locale": "ja",
+    "slug": "exact-dimensions-without-distortion",
+    "wordCount": 78,
+    "characterCountNoSpaces": 4126
+  },
+  {
+    "locale": "ja",
+    "slug": "target-file-size-kb",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3846
+  },
+  {
+    "locale": "ja",
+    "slug": "batch-resize-images",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3926
+  },
+  {
+    "locale": "ja",
+    "slug": "without-losing-quality",
+    "wordCount": 78,
+    "characterCountNoSpaces": 4082
+  },
+  {
+    "locale": "ja",
+    "slug": "jpeg-png-webp",
+    "wordCount": 138,
+    "characterCountNoSpaces": 4105
+  },
+  {
+    "locale": "ja",
+    "slug": "website-core-web-vitals",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3990
+  },
+  {
+    "locale": "ja",
+    "slug": "email-attachments",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3921
+  },
+  {
+    "locale": "ja",
+    "slug": "product-photos-same-size",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3936
+  },
+  {
+    "locale": "ja",
+    "slug": "profile-pictures-headshots",
+    "wordCount": 78,
+    "characterCountNoSpaces": 4006
+  },
+  {
+    "locale": "ja",
+    "slug": "social-media-workflow",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3899
+  },
+  {
+    "locale": "ja",
+    "slug": "dpi-ppi-print-size",
+    "wordCount": 78,
+    "characterCountNoSpaces": 4142
+  },
+  {
+    "locale": "ja",
+    "slug": "high-resolution-phone-photos",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3944
+  },
+  {
+    "locale": "ja",
+    "slug": "transparent-png",
+    "wordCount": 78,
+    "characterCountNoSpaces": 3907
+  },
+  {
+    "locale": "ja",
+    "slug": "browser-privacy",
+    "wordCount": 78,
+    "characterCountNoSpaces": 4040
+  },
+  {
+    "locale": "es",
+    "slug": "image-resizer-online",
+    "wordCount": 1650,
+    "characterCountNoSpaces": 8717
+  },
+  {
+    "locale": "es",
+    "slug": "exact-dimensions-without-distortion",
+    "wordCount": 1676,
+    "characterCountNoSpaces": 8733
+  },
+  {
+    "locale": "es",
+    "slug": "target-file-size-kb",
+    "wordCount": 1670,
+    "characterCountNoSpaces": 8890
+  },
+  {
+    "locale": "es",
+    "slug": "batch-resize-images",
+    "wordCount": 1673,
+    "characterCountNoSpaces": 8963
+  },
+  {
+    "locale": "es",
+    "slug": "without-losing-quality",
+    "wordCount": 1735,
+    "characterCountNoSpaces": 9214
+  },
+  {
+    "locale": "es",
+    "slug": "jpeg-png-webp",
+    "wordCount": 1710,
+    "characterCountNoSpaces": 9012
+  },
+  {
+    "locale": "es",
+    "slug": "website-core-web-vitals",
+    "wordCount": 1683,
+    "characterCountNoSpaces": 8990
+  },
+  {
+    "locale": "es",
+    "slug": "email-attachments",
+    "wordCount": 1720,
+    "characterCountNoSpaces": 9038
+  },
+  {
+    "locale": "es",
+    "slug": "product-photos-same-size",
+    "wordCount": 1635,
+    "characterCountNoSpaces": 8891
+  },
+  {
+    "locale": "es",
+    "slug": "profile-pictures-headshots",
+    "wordCount": 1632,
+    "characterCountNoSpaces": 8947
+  },
+  {
+    "locale": "es",
+    "slug": "social-media-workflow",
+    "wordCount": 1696,
+    "characterCountNoSpaces": 9266
+  },
+  {
+    "locale": "es",
+    "slug": "dpi-ppi-print-size",
+    "wordCount": 1742,
+    "characterCountNoSpaces": 9083
+  },
+  {
+    "locale": "es",
+    "slug": "high-resolution-phone-photos",
+    "wordCount": 1662,
+    "characterCountNoSpaces": 8695
+  },
+  {
+    "locale": "es",
+    "slug": "transparent-png",
+    "wordCount": 1613,
+    "characterCountNoSpaces": 9067
+  },
+  {
+    "locale": "es",
+    "slug": "browser-privacy",
+    "wordCount": 1698,
+    "characterCountNoSpaces": 9106
+  }
+]

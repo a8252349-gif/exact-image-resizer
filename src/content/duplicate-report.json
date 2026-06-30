@@ -1,0 +1,24 @@
+{
+  "metric": "Longest identical contiguous passage divided by the shorter guide word count",
+  "thresholdPercent": 15,
+  "maxPercent": 10.929,
+  "maxPair": "en: batch-resize-images ↔ transparent-png (187 consecutive words)",
+  "locales": [
+    {
+      "locale": "en",
+      "maxPercent": 10.929281122150789
+    },
+    {
+      "locale": "ko",
+      "maxPercent": 7.18232044198895
+    },
+    {
+      "locale": "ja",
+      "maxPercent": 8.149239077074128
+    },
+    {
+      "locale": "es",
+      "maxPercent": 10.718711276332094
+    }
+  ]
+}
