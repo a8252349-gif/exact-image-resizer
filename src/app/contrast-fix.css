@@ -1,0 +1,12 @@
+:root { color-scheme: light !important; }
+html, body { background:#f7f8fb; color:#172033; }
+button, input, textarea, select, option { color:#172033; }
+input, textarea, select { background:#ffffff; }
+.siteHeader, .languageMenu>div, .languageCard, .notFound>div, .resourceCard, .guideCard, .faqPreview details, .faqList details, .articleBody details, .editor, .settingsBody input, .settingsBody select, .modal, .tableWrap { background-color:#ffffff; color:#172033; }
+.secondary { background:#eef2ff; color:#213b9a; }
+.ghost, .chip, .iconButton, .thumbButton { color:#172033; }
+.notice { background:#fff7d6; color:#634a00; }
+.errorNotice { background:#ffefed; color:#b42318; }
+.proseSections p, .toolContent p, .articleBody p { color:#344056; }
+.siteFooter { background:#111827; color:#d4dae5; }
+.siteFooter a { color:#e4e8ef; }
