@@ -43,10 +43,10 @@ export const localizedSite = {
 export const siteConfig = {
   internalName: "Image Resizer",
   description: localizedSite.en.description,
-  siteUrl: (process.env.NEXT_PUBLIC_SITE_URL || "https://example.com").replace(/\/$/, ""),
+  siteUrl: (process.env.NEXT_PUBLIC_SITE_URL || "https://exact-image-resizer.onrender.com").replace(/\/$/, ""),
   contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "",
   publisherId: process.env.NEXT_PUBLIC_ADSENSE_CLIENT || "ca-pub-9328837907414732",
-  lastUpdated: "2026-06-30",
+  lastUpdated: "2026-09-15",
   defaultLocale
 } as const;
 
