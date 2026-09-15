@@ -10,3 +10,27 @@ input, textarea, select { background:#ffffff; }
 .proseSections p, .toolContent p, .articleBody p { color:#344056; }
 .siteFooter { background:#111827; color:#d4dae5; }
 .siteFooter a { color:#e4e8ef; }
+
+/* Homepage visual polish */
+.heroActions .button::before,
+.quickStart h2::before,
+.resourceCard::before,
+.guideCard h3::before {
+  display:inline-grid;
+  place-items:center;
+  width:1.8rem;
+  height:1.8rem;
+  margin-right:.55rem;
+  border-radius:.55rem;
+  line-height:1;
+  font-size:.82rem;
+  font-weight:900;
+  vertical-align:-.16rem;
+  flex:0 0 auto;
+}
+.heroActions .button:first-child::before { content:"↔"; background:rgba(255,255,255,.22); color:#fff; }
+.heroActions .button.secondary::before { content:"ⓘ"; background:#dfe6ff; color:#213b9a; }
+.quickStart h2::before { content:"⚡"; background:#26334a; color:#fff; }
+.resourceCard { position:relative; padding-top:4.3rem; }
+.resourceCard::before { content:"⌗"; position:absolute; top:1.2rem; left:1.3rem; background:#eef2ff; color:#315efb; }
+.guideCard h3::before { content:"▤"; background:#eef2ff; color:#315efb; }
