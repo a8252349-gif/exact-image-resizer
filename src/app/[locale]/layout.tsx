@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import '@/app/globals.css';
+import '@/app/contrast-fix.css';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { CookieSettings } from '@/components/CookieSettings';
