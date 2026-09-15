@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import '@/app/globals.css';
+import '@/app/contrast-fix.css';
 import { AdSenseScript } from '@/components/AdSenseScript';
 import { baseMetadata } from '@/lib/base-metadata';
 
