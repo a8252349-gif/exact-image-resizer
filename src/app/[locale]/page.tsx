@@ -31,7 +31,8 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
     <JsonLd data={[
       { '@context': 'https://schema.org', '@type': 'WebSite', name: localizedSite[locale].name, url: siteConfig.siteUrl, inLanguage: locale },
       { '@context': 'https://schema.org', '@type': 'Organization', name: localizedSite[locale].name, url: siteConfig.siteUrl },
-      { '@context': 'https://schema.org', '@type': 'WebApplication', name: localizedSite[locale].name, applicationCategory: 'MultimediaApplication', operatingSystem: 'Web browser', url: `${siteConfig.siteUrl}/${locale}/resizer/`, description: content.description }
+      { '@context': 'https://schema.org', '@type': 'WebApplication', name: localizedSite[locale].name, applicationCategory: 'MultimediaApplication', operatingSystem: 'Web browser', url: `${siteConfig.siteUrl}/${locale}/resizer/`, description: content.description, offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' } },
+      { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: copy.faqs.map(([question, answer]) => ({ '@type': 'Question', name: question, acceptedAnswer: { '@type': 'Answer', text: answer } })) }
     ]} />
     <section className="hero">
       <div className="heroCopy">
